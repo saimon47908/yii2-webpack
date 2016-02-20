@@ -19,7 +19,7 @@
 
     "autoload": {
         "psr-4": {
-            "saimon47908\\yii2-webpack\\": ""
+            "saimon47908\\webpack\\": ""
         }
     }
 }
