@@ -1,8 +1,6 @@
 {
-    // package name
     "name": "saimon47908/yii2-webpack",
 
-    // package type
     "type": "yii2-extension",
 
     "description": "The Webpack integration for the Yii framework",
@@ -15,12 +13,10 @@
         }
     ],
 
-    // package dependencies
     "require": {
         "yiisoft/yii2": "*"
     },
 
-    // class autoloading specs
     "autoload": {
         "psr-4": {
             "saimon47908\\yii2-webpack\\": ""
