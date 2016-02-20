@@ -1,0 +1,29 @@
+{
+    // package name
+    "name": "saimon47908/webpack",
+
+    // package type
+    "type": "yii2-extension",
+
+    "description": "The Webpack integration for the Yii framework",
+    "keywords": ["yii2", "webpack"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": " Aleksey Serov",
+            "email": "saimon47908@gmail.com"
+        }
+    ],
+
+    // package dependencies
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+
+    // class autoloading specs
+    "autoload": {
+        "psr-4": {
+            "saimon47908\\webpack\\": ""
+        }
+    }
+}
