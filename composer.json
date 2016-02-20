@@ -1,6 +1,6 @@
 {
     // package name
-    "name": "saimon47908/webpack",
+    "name": "saimon47908/yii2-webpack",
 
     // package type
     "type": "yii2-extension",
@@ -23,7 +23,7 @@
     // class autoloading specs
     "autoload": {
         "psr-4": {
-            "saimon47908\\webpack\\": ""
+            "saimon47908\\yii2-webpack\\": ""
         }
     }
 }
